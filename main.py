@@ -48,6 +48,6 @@ def unzip_directory_recursively(directory, max_iter=2022):
     print(pre, "time out based on max_iter limit of", max_iter)
 
 
-location ='C:/Users/Adrian Höppener/Downloads/Projekt/'
+location ='C:/Users/authorname/Downloads/Projekt/'
 unzip_directory_recursively(location)
 print('done')
